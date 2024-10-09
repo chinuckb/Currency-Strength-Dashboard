@@ -2,7 +2,8 @@
 This is a hobby project aimed at building an FX trading tool.
 
 ## Aim
-- Generate Buy - Sell Signals on EUR/USD
+- Generate Buy - Sell Signals on EUR/USD.
+- I am writing this in Python, but I plan to make this thing fast so I'm considering Go, C++ maybe, let's see.
 
 ## Data Sources
 - OANDA v20 REST API - https://developer.oanda.com/rest-live-v20/introduction/
@@ -10,10 +11,11 @@ This is a hobby project aimed at building an FX trading tool.
 
 ## Future Scope
 - Expansion into all Majors, Minors & Exotics.
-- Integrate Fundamental & Geopolitical Factors that influence FX movements
+- Integrate Fundamental & Geopolitical Factors that influence FX movements.
 - Training the famed Hidden Markov Model (and other Stochastic Processes) on historical data & trying to predict short-term price action.
 
 ## Note 
 - I'm not trained in Stochastic Processes, Python, etc. I'm self-taught. 
-- I don't believe in Market Prediction. I believe in educated bets. 
+- I have invested in Equities before based on Fundamental analysis & was successful. Also self-taught.
+- I don't believe in Market Prediction, only in educated bets. 
 - Some Mathematical Methods may help, this is a journey to discover which ones do.
