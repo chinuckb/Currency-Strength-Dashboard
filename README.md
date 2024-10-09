@@ -6,7 +6,7 @@ This is a hobby project aimed at building an FX trading tool.
 
 ## Data Sources
 - OANDA v20 REST API - https://developer.oanda.com/rest-live-v20/introduction/
-- You can open a Demo Account here & you will get a Paper Trading account, and API Key (It was a bit tricky for me so if you face issues please get in touch with me).
+- You can open a Demo Account for free here & you will get a Paper Trading account, and API Key (It was a bit tricky for me so if you face issues please get in touch with me).
 
 ## Future Scope
 - Expansion into all Majors, Minors & Exotics.
