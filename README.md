@@ -15,7 +15,7 @@ This is a hobby project aimed at building an FX trading tool.
 - Training the famed Hidden Markov Model (and other Stochastic Processes) on historical data & trying to predict short-term price action.
 
 ## Note 
-- I'm not trained in Stochastic Processes, Python, etc. I'm self-taught. 
+- I'm not trained formally in Stochastic Processes, Python, etc. I'm self-taught. 
 - I have invested in Equities before based on Fundamental analysis & was successful. Also self-taught.
 - I don't believe in Market Prediction, only in educated bets. 
 - Some Mathematical Methods may help, this is a journey to discover which ones do.
